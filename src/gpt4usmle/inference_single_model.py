@@ -92,6 +92,7 @@ def generate_model_responses(
     num_devices,
     torch_dtype="bfloat16",
     backend="huggingface",
+    verbose=1,
 ):
     """Generate responses from the model for given prompts and return them."""
 
@@ -168,6 +169,8 @@ def generate_model_responses(
                 messages, max_new_tokens=64, eos_token_id=terminators, do_sample=False
             )
             model_answer = outputs[0]["generated_text"][-1]["content"]
+            if verbose:
+                print(model_answer)
             model_answers.append(model_answer)
 
     else:
