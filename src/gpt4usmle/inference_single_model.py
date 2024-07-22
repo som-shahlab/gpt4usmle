@@ -193,7 +193,9 @@ def main():
     args = parser.parse_args()
 
     df = read_input_data(args.csv_file_path)
-    prompts = df.apply(format_item_to_prompt, axis=1).tolist()
+    prompts = df.apply(
+        lambda x: format_item_to_prompt(x, backend=args.backend), axis=1
+    ).tolist()
     item_nums = df["ItemNum"].tolist()
     gt_answers = df["Answer_Key"].tolist()
 
