@@ -204,11 +204,19 @@ def main():
 
     model_path = os.path.join(args.model_path_prefix, args.model_name)
     model_answers = generate_model_responses(
-        model_path, prompts, item_nums, gt_answers, args.num_devices, args.backend
+        model_path=model_path,
+        prompts=prompts,
+        num_devices=args.num_devices,
+        backend=args.backend,
+        verbose=1,
     )
 
     write_responses_to_file(
-        args.output_path, item_nums, gt_answers, args.model_name, model_answers
+        output_path=args.output_path,
+        item_nums=item_nums,
+        gt_answers=gt_answers,
+        model_name=args.model_name,
+        model_answers=model_answers,
     )
     print(f"Completed processing for model: {args.model_name}")
 
