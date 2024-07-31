@@ -1,0 +1,21 @@
+### Supplementary Material 
+eTable 1: Category assignments for human- and system-generated USMLE-like questions: The first column is the USMLE category name, the second and third columns are the frequency of occurrence of each category in human and system generated questions respectively and the last column is the absolute difference between these frequencies. 
+
+
+| USMLE Category Name                                                                        | Frequency of occurrence in human generated questions | Frequency of occurrence in system generated questions | Absolute Difference |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------------- | ------------------- |
+| Social Sciences                                                                            | 8                                                    | 3                                                     | 5                   |
+| Nervous System and Special Senses                                                          | 6                                                    | 2                                                     | 4                   |
+| Immune System                                                                              | 5                                                    | 6                                                     | 1                   |
+| Endocrine System                                                                           | 5                                                    | 5                                                     | 0                   |
+| Renal and Urinary System                                                                   | 4                                                    | 2                                                     | 2                   |
+| Gastrointestinal System                                                                    | 4                                                    | 8                                                     | 4                   |
+| Behavioral Health                                                                          | 3                                                    | 1                                                     | 2                   |
+| Multisystem Processes and Disorders                                                        | 3                                                    | 2                                                     | 1                   |
+| Respiratory System                                                                         | 3                                                    | 6                                                     | 3                   |
+| Cardiovascular System                                                                      | 2                                                    | 8                                                     | 6                   |
+| Blood and Lymphoreticular System                                                           | 2                                                    | 2                                                     | 0                   |
+| Musculoskeletal System                                                                     | 2                                                    | 1                                                     | 1                   |
+| Biostatistics, Epidemiology/population health and interpretation of the medical literature | 1                                                    | 2                                                     | 1                   |
+| Pregnancy, Childbirth and the Puerperium                                                   | 1                                                    | 2                                                     | 1                   |
+| Female and Transgender Reproductive System and Breast                                      | 1                                                    | 0                                                     | 1                   |
