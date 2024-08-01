@@ -1,5 +1,8 @@
 # QUEST-AI: A System for Question Generation, Verification, and Refinement using AI for USMLE-Style Exams
 
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+
 ## Overview
 
 **QUEST-AI** is an innovative system designed to generate, verify, and refine USMLE-style exam questions using Large Language Models (LLMs), specifically GPT-4. This system aims to streamline the development of medical exam content, offering a cost-effective and efficient alternative for creating study materials and practice questions for the United States Medical Licensing Examination (USMLE).
