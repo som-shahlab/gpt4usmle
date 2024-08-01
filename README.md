@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+![License](https://img.shields.io/github/license/som-shahlab/gpt4usmle.svg)
 
 ## Overview
 
