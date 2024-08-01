@@ -1,0 +1,110 @@
+[
+    {
+        "item":"061G",
+        "question":"A 56-year-old man presents to the clinic with a 2-month history of worsening cough, unintentional weight loss of 15 pounds, and night sweats. He has a 30-pack-year smoking history and quit smoking 5 years ago. Physical examination is significant for decreased breath sounds and dullness to percussion on the right lower lung field. A chest X-ray reveals a right lower lobe mass with ipsilateral mediastinal lymphadenopathy. A CT-guided biopsy of the mass is performed. Which of the following is the most likely diagnosis?\n\n(A) Adenocarcinoma of the lung\n(B) Bronchiectasis\n(C) Lymphoma\n(D) Metastatic colon cancer\n(E) Small cell lung cancer",
+        "answer":"E",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"104G",
+        "question":"A 36-year-old woman presents to the clinic with a 2-week history of persistent dry cough, shortness of breath, and mild chest pain. She also reports occasional low-grade fever and night sweats. She is a non-smoker and works as an elementary school teacher. Her medical history is unremarkable, and she takes no medications. On examination, she appears anxious. Lung auscultation reveals decreased breath sounds and dullness to percussion in the left lower lung field. Laboratory studies show:\n\nHematocrit: 41%\nMean corpuscular volume: 86 μm³\nLeukocyte count: 11,000\/mm³\nSegmented neutrophils: 68%\nLymphocytes: 24%\nMonocytes: 8%\nPlatelet count: 375,000\/mm³\nErythrocyte sedimentation rate: 40 mm\/hr\n\nA chest x-ray demonstrates a left-sided pleural effusion. Which of the following is the most appropriate next step in management?\n\n(A) Bronchoscopy\n(B) Thoracentesis\n(C) Computed tomography (CT) scan of the chest\n(D) Pulmonary function tests\n(E) Empiric treatment with antibiotics",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"077G",
+        "question":"A 24-year-old woman presents to the emergency department with severe abdominal pain, nausea, and vomiting. She mentions that she has had intermittent abdominal pain for the past two months, but this episode is the most severe. Her past medical history is significant for Crohn's disease. On examination, her temperature is 38.1°C (100.6°F), pulse is 110\/min, respirations are 20\/min, and blood pressure is 105\/65 mm Hg. Her abdomen is distended, and she has generalized tenderness with guarding. Bowel sounds are hypoactive. Laboratory tests reveal a white blood cell count of 14,000\/µL, and plain abdominal radiographs show dilated loops of bowel with air-fluid levels. A nasogastric tube is placed, and she is started on intravenous fluids and broad-spectrum antibiotics. Despite these interventions, her pain and distension do not improve over the next 12 hours. Which of the following is the most appropriate next step in management?\n\n(A) Administer corticosteroids\n(B) Schedule an emergent colonoscopy\n(C) Obtain a CT scan of the abdomen and pelvis\n(D) Perform a diagnostic laparoscopy\n(E) Switch to a different antibiotic regimen",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"073G",
+        "question":"A 65-year-old man with a history of type 2 diabetes mellitus and hyperlipidemia comes to the clinic complaining of bilateral lower extremity swelling and increased shortness of breath for the past month. He denies chest pain, fever, or recent travel. He is currently taking metformin, atorvastatin, and aspirin. His blood pressure is 155\/95 mm Hg, pulse is 88 beats\/min, and respiratory rate is 20 breaths\/min. Physical examination reveals pitting edema of the lower extremities and crackles in the lower lung fields bilaterally. A chest X-ray demonstrates cardiomegaly and pulmonary vascular congestion. Which of the following is the most appropriate next step in the management of this patient?\n\n(A) Begin furosemide therapy\n(B) Obtain an echocardiogram\n(C) Initiate ACE inhibitor therapy\n(D) Start a calcium channel blocker\n(E) Begin treatment with a beta-blocker\n(F) No change in management is indicated at this time",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"035G",
+        "question":"A 28-year-old man presents to the emergency department with a 3-day history of progressive dyspnea and cough productive of yellow sputum. He has a history of asthma but denies fever or chest pain. His temperature is 37.2°C (99.0°F), pulse is 95\/min, respirations are 28\/min, and blood pressure is 130\/85 mm Hg. Oxygen saturation on room air is 92%. Physical examination reveals bilateral wheezing and diminished breath sounds in the right lower lung field. Chest x-ray reveals a right lower lobe consolidation. Which of the following is the most appropriate next step in management?\n\n(A) Administer intravenous corticosteroids\n(B) Initiate broad-spectrum antibiotics\n(C) Perform a bronchoscopy\n(D) Start inhaled bronchodilators and oral corticosteroids\n(E) Obtain sputum culture and Gram stain",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"068G",
+        "question":"A 45-year-old man presents to the clinic with a 3-day history of severe pain and swelling in his right great toe. The pain is sudden in onset, increases at night, and is aggravated by even slight movement or pressure. He denies any recent trauma or injury. He has a history of hypertension and type 2 diabetes mellitus. He is currently taking metformin and lisinopril. His temperature is 37.8°C (100°F), pulse is 78\/min, and blood pressure is 145\/92 mm Hg. Physical examination reveals a warm, erythematous, and swollen right great toe. Range of motion is limited due to pain. The remainder of the examination is unremarkable. Laboratory studies show an elevated serum uric acid level. Which of the following is the most appropriate initial management for this patient?\n\n(A) Allopurinol therapy\n(B) Colchicine therapy\n(C) Indomethacin therapy\n(D) Oral prednisone therapy\n(E) Probenecid therapy\n(F) RICE (rest, ice, compression, elevation) therapy",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"006G",
+        "question":"A 36-year-old man presents to the emergency department with a 3-day history of severe diarrhea, abdominal pain, and low-grade fever. He recently returned from a 2-week vacation in a developing country, where he frequently consumed street food. On examination, he appears dehydrated, with a temperature of 38.3°C (100.9°F), pulse 110\/min, and blood pressure 100\/60 mm Hg. Abdominal examination reveals diffuse tenderness with no rebound or guarding. Stool culture shows growth of a gram-negative, rod-shaped bacterium. Which of the following is the most appropriate initial treatment for this patient?\n\n(A) Azithromycin\n(B) Ciprofloxacin\n(C) Metronidazole\n(D) Vancomycin\n(E) Supportive care with hydration and electrolyte replacement",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"043G",
+        "question":"A 62-year-old woman presents to the clinic with a 3-month history of persistent dry cough and increasing fatigue. She has no history of fever, chest pain, shortness of breath, or weight loss. Her past medical history is significant for hypertension, which is well controlled with medication. She has never smoked and does not consume alcohol. Vital signs are temperature 36.8°C (98.2°F), pulse 80\/min, respirations 16\/min, and blood pressure 128\/78 mm Hg. On physical examination, her lungs are clear to auscultation bilaterally. Cardiac examination reveals a normal S1 and S2 with no extra heart sounds or murmurs. Jugular venous pulsation is not elevated. There is no clubbing, cyanosis, or edema of the extremities. Laboratory tests, including complete blood count, serum chemistry profile, and urinalysis, are within normal limits. A chest x-ray shows bilateral hilar lymphadenopathy without obvious parenchymal abnormalities. Which of the following is the most appropriate next step in evaluation?\n\n(A) Bronchoscopy with transbronchial biopsy\n(B) Echocardiography\n(C) High-resolution CT scan of the chest\n(D) Pulmonary function tests\n(E) Thoracic PET scan",
+        "answer":"A",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"039G",
+        "question":"A 35-year-old man presents to the emergency department with sudden onset severe chest pain radiating to his back. The pain began 2 hours ago and has been constant since then. He has a history of hypertension, which has been poorly controlled. On examination, his blood pressure is 190\/120 mm Hg, pulse is 110\/min, respirations are 22\/min, and temperature is 37.0°C (98.6°F). The cardiovascular examination reveals a harsh systolic murmur heard best at the right upper sternal border. The rest of the examination is unremarkable.\n\nThe patient undergoes an urgent CT angiogram, which demonstrates a dissection in the descending thoracic aorta. His laboratory findings include:\n\nHemoglobin: 14 g\/dL\nHematocrit: 42%\nPlatelet count: 220,000\/mm³\nProthrombin time: 12 seconds\nActivated partial thromboplastin time: 35 seconds\nSerum Creatinine: 1.5 mg\/dL\nWhich of the following is the most appropriate next step in the management of this patient?\n\n(A) Immediate surgical intervention\n(B) Intravenous beta-blocker therapy\n(C) Intravenous heparin infusion\n(D) Intravenous nitroglycerin infusion\n(E) Percutaneous coronary intervention",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"111G",
+        "question":"A 27-year-old woman presents to the clinic with a 5-day history of fever, sore throat, and fatigue. She has not experienced difficulty swallowing, ear pain, or nasal congestion. She has no history of serious illness and takes no medications. Examination reveals a fever of 101°F (38.3°C), enlarged tonsils with white exudates, and tender anterior cervical lymphadenopathy. A rapid strep test is positive. The physician decides to prescribe amoxicillin to treat the patient's streptococcal pharyngitis. Which of the following is the most appropriate way for the physician to write the prescription?\n\n(A) Amoxicillin 500 mg, take 1 capsule orally, three times daily for 10 days\n(B) Amoxicillin 500 mg, take 1 capsule PO TID x 10 days\n(C) Amoxicillin 500 mg, take 1 capsule PO, TID, for 10D\n(D) Amoxicillin 500 mg, 1 capsule by mouth, 3 times\/day, 10 days",
+        "answer":"A",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"099G",
+        "question":"A randomized controlled trial is conducted to evaluate the effectiveness of a new antihypertensive drug in reducing the incidence of stroke. Ten thousand patients with hypertension are randomly assigned to receive either the new antihypertensive drug or a standard antihypertensive drug. After a follow-up period of 3 years, the results show that the incidence of stroke is 3% in the new antihypertensive drug group and 6% in the standard antihypertensive drug group. The difference in incidence is statistically significant. Which of the following is the most accurate interpretation of these results?\n\n(A) Absolute risk reduction is 1%\n(B) Absolute risk reduction is 3%\n(C) Number needed to treat is 10\n(D) Number needed to treat is 33\n(E) Relative risk reduction is 33.3%\n(F) Relative risk reduction is 50%",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"022G",
+        "question":"A 48-year-old man with a history of type 2 diabetes presents to the emergency department with a 3-day history of severe pain, redness, and swelling in his left foot. He reports that he had a small cut on his foot a week ago, which has since become increasingly painful. His temperature is 100.9°F (38.3°C), blood pressure is 135\/85 mmHg, pulse is 105 beats\/min, and respiratory rate is 20 breaths\/min. Physical examination reveals a warm, erythematous, swollen left foot with a malodorous, necrotic ulcer surrounded by purulent discharge. The patient is at high risk for a limb-threatening infection and requires urgent surgical intervention. However, he is extremely anxious about surgery and asks if there are any alternatives to manage his condition. Which of the following is the most appropriate next step in management?\n\n(A) Administer broad-spectrum intravenous antibiotics\n(B) Assess the patient's medical decision-making capacity\n(C) Initiate hyperbaric oxygen therapy\n(D) Perform a noninvasive vascular study\n(E) Schedule an MRI of the foot",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"063G",
+        "question":"A 28-year-old woman, gravida 3, para 3, presents to her obstetrician for a routine prenatal visit at 28 weeks' gestation. She has a history of type 1 diabetes mellitus and is currently on insulin therapy. Her diabetes has been well-controlled throughout her pregnancy, with her most recent HbA1c at 6.5%. Her prenatal laboratory workup is unremarkable. The patient is concerned about potential risks to her unborn child. Which of the following is the most appropriate measure to monitor fetal well-being in this patient?\n\n(A) Biophysical profile\n(B) Contraction stress test\n(C) Fetal kick count\n(D) Nonstress test\n(E) Umbilical artery Doppler velocimetry",
+        "answer":"E",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"081G",
+        "question":"A 42-year-old man presents to the emergency department with a 3-day history of fever, cough, and shortness of breath. He has a past medical history of type 2 diabetes mellitus and hypertension. His vital signs are: temperature 101.5°F (38.6°C), blood pressure 145\/95 mm Hg, pulse 105\/min, and respiratory rate 24\/min. On physical examination, he has bilateral crackles in his lungs. Chest X-ray reveals bilateral infiltrates. His oxygen saturation is 92% on room air. The patient has no known drug allergies, and he is not taking any medications. He admits to smoking a pack of cigarettes per day for the past 20 years. Which of the following is the most appropriate initial antibiotic regimen for this patient?\n\n(A) Amoxicillin\n(B) Ceftriaxone and azithromycin\n(C) Ciprofloxacin\n(D) Doxycycline\n(E) Piperacillin-tazobactam",
+        "answer":"B",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"037G",
+        "question":"A 24-year-old woman with a history of recurrent urinary tract infections presents to her primary care physician with a 3-day history of dysuria, increased urinary frequency, and suprapubic pain. She denies fever, chills, nausea, or vomiting. She is sexually active with one partner and uses condoms for contraception. Her vital signs are within normal limits. Urinalysis shows numerous white blood cells, positive nitrites, and positive leukocyte esterase. Which of the following is the most appropriate initial treatment for this patient?\n\n(A) Amoxicillin\n(B) Ciprofloxacin\n(C) Nitrofurantoin\n(D) Trimethoprim-sulfamethoxazole\n(E) Levofloxacin",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"no"
+    },
+    {
+        "item":"059G",
+        "question":"A 27-year-old woman visits her primary care physician for a routine check-up. She reports that she has been experiencing difficulty falling asleep for the past few months, as well as a sudden weight loss despite having a normal appetite. She also complains of feeling increasingly irritable and having palpitations. On examination, her vital signs reveal a heart rate of 110 beats per minute, blood pressure of 130\/80 mm Hg, and a respiratory rate of 20 breaths per minute. Her thyroid is diffusely enlarged and non-tender. Results of laboratory studies show a low TSH level and elevated free T4 and T3 levels. Which of the following is the most appropriate next step in management?\n\n(A) Begin propranolol therapy\n(B) Begin levothyroxine therapy\n(C) Begin methimazole therapy\n(D) Order a thyroid-stimulating immunoglobulin (TSI) test\n(E) Order a thyroid ultrasound",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"028G",
+        "question":"A 35-year-old woman presents to the emergency department with severe abdominal pain and vomiting for the past 6 hours. She reports that the pain started suddenly and is located in the right lower quadrant. She has no significant past medical history and is not currently taking any medications. She has no known drug allergies. She is 165 cm (5 ft 5 in) tall and weighs 68 kg (150 lb); BMI is 25 kg\/m². Temperature is 38.2°C (100.8°F), pulse is 110\/min, respirations are 20\/min, and blood pressure is 115\/75 mm Hg. Physical examination reveals rebound tenderness and guarding in the right lower quadrant. Laboratory studies show a white blood cell count of 15,000\/mm³. Which of the following is the most appropriate next step in management?\n\n(A) Administer intravenous fluids and antiemetics\n(B) Administer intravenous morphine for pain control\n(C) Obtain a surgical consultation for suspected appendicitis\n(D) Perform an abdominal ultrasound\n(E) Prescribe oral antibiotics for suspected gastroenteritis",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"50\/50"
+    },
+    {
+        "item":"091G",
+        "question":"A 65-year-old man presents to the primary care clinic for a follow-up visit after being discharged from the hospital 1 week ago due to a myocardial infarction. The patient has a history of type 2 diabetes mellitus and hypertension, which are managed with metformin, lisinopril, and hydrochlorothiazide. Since discharge, he has been prescribed atorvastatin, metoprolol, and aspirin. He reports mild shortness of breath on exertion and occasional chest discomfort. Vital signs reveal a temperature of 36.7°C (98.1°F), pulse of 68\/min, respirations of 16\/min, and blood pressure of 128\/78 mm Hg. Cardiac examination shows regular rate and rhythm with no murmurs, rubs, or gallops. Pulmonary examination reveals clear breath sounds bilaterally. Laboratory results show a fasting glucose level of 140 mg\/dL, HbA1c of 7.8%, and a lipid panel with an LDL cholesterol of 100 mg\/dL. The patient lives alone, but his adult children live nearby and visit him regularly. What is the most appropriate next step in management?\n\n(A) Increase the dose of metformin and add a sulfonylurea\n(B) Add an angiotensin receptor blocker to his medication regimen\n(C) Refer the patient for a cardiac rehabilitation program\n(D) Prescribe a long-acting nitrate for the management of chest discomfort",
+        "answer":"C",
+        "consensus_is_gpt_qa_correct":"no"
+    }
+]
